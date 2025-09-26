@@ -47,6 +47,8 @@
 <summary>Code for Publications</summary>
   
   - [A highly resolved integrated transcriptomic atlas of human breast cancers](https://github.com/montilab/brca_atlas)
+  - [A highly resolved integrated single-cell atlas of HPV-negative head and neck cancer](https://github.com/montilab/kroehling_et_al_hpvneg_hnscc_atlas)
+  - [Metabolomic Signatures of Extreme Old Age: Findings from the New England Centenarian Study](https://github.com/montilab/monti_et_al_necs_metabolomics)
   - [Plasma exosomes from individuals with type 2 diabetes drive breast cancer aggression in patient-derived organoids](https://github.com/montilab/BrCaExoPDO)
   - [Insulin Resistance Increases TNBC Aggressiveness and Brain Metastasis via Adipocyte-derived Exosomes](https://github.com/montilab/4T1_brainmets)
   - [LSD1 Antitumor Immunity](https://github.com/montilab/LSD1_Antitumor_Immunity)
