@@ -16,7 +16,8 @@
   - [hypeR-modules](https://github.com/montilab/hypeR-modules)
   - [hypeR-shiny](https://github.com/montilab/hypeR-shiny)
   - [hypeR-next](https://github.com/montilab/hypeR-next)
-
+  - [hypeR-GEM](https://github.com/montilab/hypeR-GEM)
+ 
   SHINE (Structure Learning for Hiearchical Networks)
   - [shine](https://github.com/montilab/shine)
   - [shine-nf](https://github.com/montilab/shine-nf)
