@@ -50,6 +50,7 @@
   - [A highly resolved integrated transcriptomic atlas of human breast cancers](https://github.com/montilab/chen_et_al_brca_atlas)
   - [A highly resolved integrated single-cell atlas of HPV-negative head and neck cancer](https://github.com/montilab/kroehling_et_al_hpvneg_hnscc_atlas)
   - [Metabolomic Signatures of Extreme Old Age: Findings from the New England Centenarian Study](https://github.com/montilab/monti_et_al_necs_metabolomics)
+  - [Dietary Serine Deprivation Impacts H3K27 and H3K4 Methyl Epigenomes to Impede Head and Neck Cancer Cell Plasticity and Tumor Growth](https://github.com/montilab/jankowski_kroehling_et_al_serine_starvation_oscc)
   - [Plasma exosomes from individuals with type 2 diabetes drive breast cancer aggression in patient-derived organoids](https://github.com/montilab/ennis_et_al_brca_exosome_pdo)
   - [Insulin Resistance Increases TNBC Aggressiveness and Brain Metastasis via Adipocyte-derived Exosomes](https://github.com/montilab/qiu_et_al_4T1_brainmets)
   - [LSD1 Antitumor Immunity](https://github.com/montilab/LSD1_Antitumor_Immunity)
