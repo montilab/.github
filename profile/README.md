@@ -47,6 +47,7 @@
 <details>
 <summary>Code for Publications</summary>
   
+  - [The β-catenin/CBP/MLL1 axis promotes tumor heterogeneity with stress- and EMT-associated hybrid cell states in head and neck cancer](https://github.com/montilab/khan_et_al_4nqo_oscc_bcatcpb)
   - [A highly resolved integrated transcriptomic atlas of human breast cancers](https://github.com/montilab/chen_et_al_brca_atlas)
   - [A highly resolved integrated single-cell atlas of HPV-negative head and neck cancer](https://github.com/montilab/kroehling_et_al_hpvneg_hnscc_atlas)
   - [Metabolomic Signatures of Extreme Old Age: Findings from the New England Centenarian Study](https://github.com/montilab/monti_et_al_necs_metabolomics)
